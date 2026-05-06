@@ -1,4 +1,4 @@
-[Read Me.txt](https://github.com/user-attachments/files/27447958/Read.Me.txt)
+
 📂 SMART SORT – FILE ORGANIZER
 👨‍💻 Author: Asif Ali
 
